@@ -1,0 +1,4 @@
+networkx==2.5
+pandas==1.2.4
+pyvis==0.1.9
+treelib==1.6.1
